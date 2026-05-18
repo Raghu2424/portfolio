@@ -21,11 +21,10 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>
-              Electronics & Communication (BTech), Guru Nanak Dev University, Amritsar — 2019–2023
+              Computer Science Engineering (B.E), Shetty Institute of Technology — 2024–2028
             </p>
             <p>
-              Artificial Intelligence & Data Sceince Engineering (MTech), IIT Patna —
-              2024–2026
+              Computer Science Engineering (B.E), Shetty Institute of Technology — 2024–2028
             </p>
           </div>
           <div className="contact-box">

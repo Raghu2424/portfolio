@@ -87,7 +87,52 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
+              <div className="what-content-in">
+                <h3>WEB DEVELOPMENT</h3>
+                <h4>Building Responsive & Interactive Websites</h4>
+
+                <p>
+                  Passionate about creating modern and responsive web applications
+                  using frontend technologies while continuously improving development
+                  and UI design skills.
+                </p>
+
+                <h5>Skillset & tools</h5>
+
+                <div className="what-content-flex">
+                  <div className="what-tags">HTML</div>
+                  <div className="what-tags">CSS</div>
+                  <div className="what-tags">JavaScript</div>
+                  <div className="what-tags">React</div>
+                  <div className="what-tags">Responsive UI</div>
+                  <div className="what-tags">GitHub</div>
+                </div>
+
+                <div className="what-arrow"></div>
+              </div><div className="what-content-in">
+                <h3>AI & OPEN SOURCE</h3>
+
+                <h4>Learning AI Tools & GitHub Collaboration</h4>
+
+                <p>
+                  Exploring Artificial Intelligence, prompt engineering, GitHub
+                  workflows, and open-source collaboration through projects,
+                  hackathons, and community learning.
+                </p>
+
+                <h5>Skillset & tools</h5>
+
+                <div className="what-content-flex">
+                  <div className="what-tags">Python</div>
+                  <div className="what-tags">AI Tools</div>
+                  <div className="what-tags">Prompt Engineering</div>
+                  <div className="what-tags">Git & GitHub</div>
+                  <div className="what-tags">Open Source</div>
+                  <div className="what-tags">Problem Solving</div>
+                </div>
+
+                <div className="what-arrow"></div>
+              </div>
               <h4>Workflow Intelligence for Organizations</h4>
               <p>
                 AI specialist helping organizations automate workflows—internal ops
