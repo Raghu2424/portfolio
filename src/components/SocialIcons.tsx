@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/Anshika66-Gupta"
+            href="https://github.com/Raghu2424"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/techy-anshikagupta/"
+            href="https://www.linkedin.com/in/raghavendra24"
             target="_blank"
             rel="noreferrer"
           >
@@ -88,7 +88,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/anshikagupta.tech/"
+            href="https://www.instagram.com/crazyboy_raghu24/"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Anshika-Resume.pdf"
+        href="/Raghavendra-Resume.pdf"
         target="_blank"
         rel="noreferrer"
       >
